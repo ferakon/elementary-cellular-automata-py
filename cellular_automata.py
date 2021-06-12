@@ -16,7 +16,7 @@ def define_rule_sets(set_size):
         s = '0'*(set_size-len(s))+s
         rule_sets.append((list(map(int, list(s)))))
         
-        return rule_sets
+    return rule_sets
 
 def apply_rules(l, m, r, rules):
 
