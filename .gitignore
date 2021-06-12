@@ -1,0 +1,7 @@
+# python caches #
+
+**/__pycache__
+
+# image outputs #
+
+/outputs/*.png
